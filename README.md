@@ -1,5 +1,5 @@
 Buenos días Ivan 
 
-Quedaste por el tiempo: 01:15
+Quedaste por el tiempo: 01:41
 
-Sigo aprendiendo 
+Quede por el tema de ayuda.
