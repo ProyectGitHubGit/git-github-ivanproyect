@@ -1,0 +1,41 @@
+*   e30981d Merge branch 'main' of https://github.com/Tecno85/git-github
+|\  
+| * fbefcd9 Agregando Párrafos
+* | f3697e2 Agregando Párrafos
+|/  
+*   a11e001 Resolviendo conflicto para cambios de commit
+|\  
+| * 113be82 Agregando estaciones del año
+* | 95ea845 Agregando el numero 2 a las estaciones
+|/  
+*   952b9e7 Merge branch 'main' of https://github.com/Tecno85/git-github
+|\  
+| *   16c18fc Vamos
+| |\  
+* | \   3365d54 Cambiando el ultimo commit
+|\ \ \  
+| |/ /  
+|/| /   
+| |/    
+| * 0c896dd Guardando progreso
+* | 07aaec2 Nuevo Mensaja para el ultimo commit
+|/  
+*   fb478c2 Resolviendo conflicto merge main/html en el documento index.html
+|\  
+| * 9dd1004 Agregando index.js al index.html
+* | 00507cf Agregando style.css al index.html
+* |   0ef8312 Merge branch 'js'
+|\ \  
+| * | 1c2acb2 Creando index.js
+* | | bb7da33 Creando style.css
+| |/  
+|/|   
+* | 620c9a1 Creando index.html
+|/  
+* 996f11a Ignorando archivos .exe
+* 4de051d Voy por el tema de Ayuda
+* 7d44a28 Rename LICENSE to license.txt
+* 7fddc18 Creando Licencia del Repositorio
+* c27c553 Cambio desde la interfaz de GitHub
+* f1deed5 Agregando tiempo
+* 84936c3 Primer commit prueba con Git-GitHub

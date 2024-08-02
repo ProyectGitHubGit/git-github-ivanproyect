@@ -1,0 +1,156 @@
+commit e30981d1595b92a5911c3aa7e66f3d2facee2732
+Merge: f3697e2 fbefcd9
+Author: ivan <tecno85@gmail.com>
+Date:   Tue Jul 30 14:07:29 2024 -0500
+
+    Merge branch 'main' of https://github.com/Tecno85/git-github
+
+commit f3697e2276d98b355d4d236f11e965b96cae1e3a
+Author: ivan <tecno85@gmail.com>
+Date:   Tue Jul 30 13:57:09 2024 -0500
+
+    Agregando Párrafos
+
+commit fbefcd9c804b2ff841b78a5d9361e55c5ad0ef31
+Author: ivan <tecno85@gmail.com>
+Date:   Tue Jul 30 13:57:09 2024 -0500
+
+    Agregando Párrafos
+
+commit a11e0012968d3bd28869f837c92772b1aaa27e5f
+Merge: 95ea845 113be82
+Author: ivan <tecno85@gmail.com>
+Date:   Tue Jul 30 13:53:17 2024 -0500
+
+    Resolviendo conflicto para cambios de commit
+
+commit 95ea845dcebddea93235995138009016ca8878c0
+Author: ivan <tecno85@gmail.com>
+Date:   Tue Jul 30 12:55:52 2024 -0500
+
+    Agregando el numero 2 a las estaciones
+
+commit 113be824738983c6c405075fa45506d053ddff2e
+Author: ivan <tecno85@gmail.com>
+Date:   Tue Jul 30 12:55:52 2024 -0500
+
+    Agregando estaciones del año
+
+commit 952b9e7e311b39cc3a4145121a35cdf60eadec0f
+Merge: 3365d54 16c18fc
+Author: ivan <tecno85@gmail.com>
+Date:   Tue Jul 30 12:51:27 2024 -0500
+
+    Merge branch 'main' of https://github.com/Tecno85/git-github
+
+commit 3365d547e3c688c61b709acf2723231bea812d77
+Merge: 07aaec2 0c896dd
+Author: ivan <tecno85@gmail.com>
+Date:   Tue Jul 30 12:47:12 2024 -0500
+
+    Cambiando el ultimo commit
+
+commit 16c18fccc33a0953c4fce63a83d71878d316a79a
+Merge: 07aaec2 0c896dd
+Author: ivan <tecno85@gmail.com>
+Date:   Tue Jul 30 12:47:12 2024 -0500
+
+    Vamos
+
+commit 07aaec273943a0c254fadd9e91b2449aba9f06d0
+Author: ivan <tecno85@gmail.com>
+Date:   Tue Jul 30 11:06:36 2024 -0500
+
+    Nuevo Mensaja para el ultimo commit
+
+commit 0c896dd0f8f3f7f1753f93840e35ce89c0ec9923
+Author: ivan <tecno85@gmail.com>
+Date:   Tue Jul 30 11:06:36 2024 -0500
+
+    Guardando progreso
+
+commit fb478c2512be4cd2c8d3f6742891bdcfea4b75b2
+Merge: 00507cf 9dd1004
+Author: ivan <tecno85@gmail.com>
+Date:   Tue Jul 30 11:03:12 2024 -0500
+
+    Resolviendo conflicto merge main/html en el documento index.html
+
+commit 9dd100429576c8f4d4f2b24013f22d0280bdbbfa
+Author: ivan <tecno85@gmail.com>
+Date:   Tue Jul 30 10:57:58 2024 -0500
+
+    Agregando index.js al index.html
+
+commit 00507cf3beac4f33ed6d1219c337cf640351b7de
+Author: ivan <tecno85@gmail.com>
+Date:   Tue Jul 30 10:55:50 2024 -0500
+
+    Agregando style.css al index.html
+
+commit 0ef83126668c1d323ba16e138e19a6ec0abc7bab
+Merge: bb7da33 1c2acb2
+Author: ivan <tecno85@gmail.com>
+Date:   Tue Jul 30 10:46:39 2024 -0500
+
+    Merge branch 'js'
+
+commit 1c2acb247bd2ca155437eb382299d9d23cb50661
+Author: ivan <tecno85@gmail.com>
+Date:   Tue Jul 30 10:40:34 2024 -0500
+
+    Creando index.js
+
+commit bb7da33b398a42a5e93b043b077a68b87c76d08e
+Author: ivan <tecno85@gmail.com>
+Date:   Tue Jul 30 10:35:42 2024 -0500
+
+    Creando style.css
+
+commit 620c9a184629da8264c25ab55931458d784a1bcd
+Author: ivan <tecno85@gmail.com>
+Date:   Tue Jul 30 10:31:23 2024 -0500
+
+    Creando index.html
+
+commit 996f11aa01f1873cbd65cb15bc8d4eee242294cb
+Author: ivan <tecno85@gmail.com>
+Date:   Tue Jul 30 09:51:26 2024 -0500
+
+    Ignorando archivos .exe
+
+commit 4de051d716ca20195dcbd7be2677170442e6b0a4
+Author: ivan <tecno85@gmail.com>
+Date:   Mon Jul 29 08:59:26 2024 -0500
+
+    Voy por el tema de Ayuda
+
+commit 7d44a284ccddc468fa7a716bae6c876ee2714aa3
+Author: ivan <114070941+Tecno85@users.noreply.github.com>
+Date:   Mon Jul 29 08:53:57 2024 -0500
+
+    Rename LICENSE to license.txt
+
+commit 7fddc180db3c7a75b976fedfe522ec370790a1e3
+Author: ivan <114070941+Tecno85@users.noreply.github.com>
+Date:   Mon Jul 29 08:51:42 2024 -0500
+
+    Creando Licencia del Repositorio
+
+commit c27c5536b95d7f6fc73de27a8ef8c802ecc2b851
+Author: ivan <114070941+Tecno85@users.noreply.github.com>
+Date:   Mon Jul 29 08:47:34 2024 -0500
+
+    Cambio desde la interfaz de GitHub
+
+commit f1deed523b425f25b43a50da6c30d48dc475cc22
+Author: ivan <tecno85@gmail.com>
+Date:   Mon Jul 29 08:45:18 2024 -0500
+
+    Agregando tiempo
+
+commit 84936c30a990ecdbdd404ceddddaf675da5c4c21
+Author: ivan <tecno85@gmail.com>
+Date:   Sat Jul 27 13:30:52 2024 -0500
+
+    Primer commit prueba con Git-GitHub
