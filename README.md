@@ -1,6 +1,6 @@
 Buenos días Ivan 
 
-Quedaste por el tiempo: 03:33
+Quedaste por el tiempo: 03:37
 
-Quede por el tema sobre Remmotos.
+Quede por el tema sobre Etiquetas: Este commit es para oficializar nuestra version **1.0.0**
 
