@@ -1,6 +1,6 @@
 Buenos días Ivan 
 
-Quedaste por el tiempo: 03:05
+Quedaste por el tiempo: 03:33
 
-Quede por el tema sobre Cambios de commit
+Quede por el tema sobre Remmotos.
 
